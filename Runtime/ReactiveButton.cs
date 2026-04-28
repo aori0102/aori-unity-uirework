@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace Aori
+namespace Aori.UIRework
 {
     [RequireComponent(typeof(RectTransform))]
     [DisallowMultipleComponent]

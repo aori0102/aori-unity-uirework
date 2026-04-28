@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Aori
+namespace Aori.UIRework
 {
     [Serializable]
     public struct LayoutPadding

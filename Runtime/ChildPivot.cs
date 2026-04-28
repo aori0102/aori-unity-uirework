@@ -1,4 +1,4 @@
-﻿namespace Aori
+﻿namespace Aori.UIRework
 {
     public enum ChildPivot
     {

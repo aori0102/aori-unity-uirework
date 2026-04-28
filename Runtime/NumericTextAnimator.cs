@@ -2,7 +2,7 @@
 using TMPro;
 using UnityEngine;
 
-namespace Aori
+namespace Aori.UIRework
 {
     [DisallowMultipleComponent]
     [RequireComponent(typeof(TextMeshProUGUI))]

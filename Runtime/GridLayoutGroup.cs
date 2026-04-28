@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Aori
+namespace Aori.UIRework
 {
     [DisallowMultipleComponent]
     [ExecuteAlways]

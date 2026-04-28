@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Aori
+namespace Aori.UIRework
 {
     [DisallowMultipleComponent]
     [ExecuteAlways]
