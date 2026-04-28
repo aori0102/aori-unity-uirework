@@ -1,0 +1,10 @@
+﻿{
+  "name": "com.aori.ui",
+  "version": "0.1.0",
+  "displayName": "Aori.UI",
+  "unity": "6000.0",
+  "description": "A modified version of Unity built-in UI system, with additional features and optimizations for better performance and usability.",
+  "author": {
+    "name": "Aori"
+  }
+}

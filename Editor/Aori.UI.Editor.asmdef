@@ -1,0 +1,17 @@
+﻿{
+  "name": "Aori.UI.Editor",
+  "rootNamespace": "Aori.UI.Editor",
+  "references": [
+    "Unity.TextMeshPro",
+    "Aori.UI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
